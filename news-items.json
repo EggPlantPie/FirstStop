@@ -1,37 +1,37 @@
 [
-    {
-        "title": "Morgan Freeman slams unauthorised AI imitations, calling for 'authenticity and integrity'",
-        "url": "https://www.abc.net.au/news/2024-06-30/actor-morgan-freeman-slams-unauthorized-ai-imitations/104040928",
-        "imageUrl": "https://live-production.wcms.abc-cdn.net.au/1bb4991cff72e3be725448e72b87ce48?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
-        "source": "ABC News",
-        "date": "30 Jun 2024"
-    },
-    {
-        "title": "Fears that AI bubble could burst after Nvidia’s $646 billion crash",
-        "url": "https://www.news.com.au/finance/markets/world-markets/fears-that-ai-bubble-could-burst-after-nvidias-646-billion-crash/news-story/d21e9148994a84f38baf1202c0d29747",
-        "imageUrl": "https://content.api.news/v3/images/bin/ad2af8735e010dc03b5397756de7caf7?width=1024",
-        "source": "news.com.au",
-        "date": "29 Jun 2024"
-    },
-    {
-        "title": "MIT robotics pioneer Rodney Brooks thinks people are vastly overestimating generative AI",
-        "url": "https://au.finance.yahoo.com/news/mit-robotics-pioneer-rodney-brooks-150000727.html",
-        "imageUrl": "https://s.yimg.com/ny/api/res/1.2/qaxs_flyPexVJ5UBC7P4FA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/techcrunch_350/d6cedf2f98936dec53c346580f5c603a",
-        "source": "Yahoo",
-        "date": "30 Jun 2024"
-    },
-    {
-        "title": "AI scientist Ray Kurzweil: ‘We are going to expand intelligence a millionfold by 2045’",
-        "url": "https://www.theguardian.com/technology/article/2024/jun/29/ray-kurzweil-google-ai-the-singularity-is-nearer",
-        "imageUrl": "https://i.guim.co.uk/img/media/5fa8370d6ddacf8543877861cd683afa5754eafe/358_1399_2510_1506/master/2510.jpg?width=1900&dpr=1&s=none",
-        "source": "Guardian",
-        "date": "30 Jun 2024"
-    },
-    {
-        "title": "AI-powered scams and what you can do about them",
-        "url": "https://techcrunch.com/2024/06/30/ai-powered-scams-and-what-you-can-do-about-them/",
-        "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/06/ai-pickpocket-v2.jpg",
-        "source": "Techcrunch",
-        "date": "30 Jun 2024"
-    }
+   {
+      "title":"Morgan Freeman slams unauthorised AI imitations, calling for 'authenticity and integrity'",
+      "url":"https://www.abc.net.au/news/2024-06-30/actor-morgan-freeman-slams-unauthorized-ai-imitations/104040928",
+      "imageUrl":"https://live-production.wcms.abc-cdn.net.au/1bb4991cff72e3be725448e72b87ce48?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
+      "source":"asdfasf",
+      "date":"30 Jun 2024"
+   },
+   {
+      "title":"Fears that AI bubble could burst after Nvidia’s $646 billion crash",
+      "url":"https://www.news.com.au/finance/markets/world-markets/fears-that-ai-bubble-could-burst-after-nvidias-646-billion-crash/news-story/d21e9148994a84f38baf1202c0d29747",
+      "imageUrl":"https://content.api.news/v3/images/bin/ad2af8735e010dc03b5397756de7caf7?width=1024",
+      "source":"ss",
+      "date":"30 Jun 2024"
+   },
+   {
+      "title":"MIT robotics pioneer Rodney Brooks thinks people are vastly overestimating generative AI",
+      "url":"https://au.finance.yahoo.com/news/mit-robotics-pioneer-rodney-brooks-150000727.html",
+      "imageUrl":"https://s.yimg.com/ny/api/res/1.2/qaxs_flyPexVJ5UBC7P4FA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/techcrunch_350/d6cedf2f98936dec53c346580f5c603a",
+      "source":"dd",
+      "date":"30 Jun 2024"
+   },
+   {
+      "title":"AI scientist Ray Kurzweil: ‘We are going to expand intelligence a millionfold by 2045’",
+      "url":"https://www.theguardian.com/technology/article/2024/jun/29/ray-kurzweil-google-ai-the-singularity-is-nearer",
+      "imageUrl":"https://i.guim.co.uk/img/media/5fa8370d6ddacf8543877861cd683afa5754eafe/358_1399_2510_1506/master/2510.jpg?width=1900&dpr=1&s=none",
+      "source":"ff",
+      "date":"30 Jun 2024"
+   },
+   {
+      "title":"AI-powered scams and what you can do about them",
+      "url":"https://techcrunch.com/2024/06/30/ai-powered-scams-and-what-you-can-do-about-them/",
+      "imageUrl":"https://techcrunch.com/wp-content/uploads/2024/06/ai-pickpocket-v2.jpg",
+      "source":"gf",
+      "date":"30 Jul 2024"
+   }
 ]
