@@ -1,37 +1,37 @@
 [
    {
+      "title":"Mistral releases Pixtral 12B, its first multimodal model",
+      "url":"https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/",
+      "imageUrl":"https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2147859992-e1713960898378.webp",
+      "source":"TechCrunch",
+      "date":"11 Sep 2024"
+   },
+   {
+      "title":"A First Look at Adobe's Upcoming AI-Powered Video Generation Features",
+      "url":"https://www.maginative.com/article/a-first-look-at-adobes-upcoming-ai-powered-video-generation-features/",
+      "imageUrl":"https://www.maginative.com/content/images/size/w2000/format/avif/2024/09/Adobe-Firefly-Video.jpg",
+      "source":"Maginative",
+      "date":"11 Sep 2024"
+   },
+   {
+      "title":"OpenAI to Launch Strawberry, a Reasoning-Focused AI Model, as Part of ChatGPT in the Next Two Weeks",
+      "url":"https://www.maginative.com/article/openai-to-launch-strawberry-a-reasoning-focused-ai-model-as-part-of-chatgpt-in-the-next-two-weeks/",
+      "imageUrl":"https://www.maginative.com/content/images/size/w2000/format/avif/2024/09/StrawberryGPT.jpg",
+      "source":"Maginative",
+      "date":"10 Sep 2024"
+   },
+   {
+      "title":"Reflection 70B model maker breaks silence amid fraud accusations",
+      "url":"https://venturebeat.com/ai/reflection-70b-model-maker-breaks-silence-amid-fraud-accusations/",
+      "imageUrl":"https://venturebeat.com/wp-content/uploads/2024/09/silhouette-doorway-computer.jpg?w=750",
+      "source":"VentureBeat",
+      "date":"10 Sep 2024"
+   },
+   {
       "title":"Apple iPhone 16 event shows off AI muscle, new Watches and AirPods",
       "url":"https://www.reuters.com/technology/artificial-intelligence/apples-iphone-16-will-put-ai-features-focus-2024-09-09/",
       "imageUrl":"https://ajo.prod.reuters.tv/api/v2/img/66df7cf1e4b0c105f5acc53b?width=480&quality=80",
       "source":"Reuters",
       "date":"10 Sep 2024"
-   },
-   {
-      "title":"LightEval: Hugging Face’s open-source solution to AI’s accountability problem",
-      "url":"https://venturebeat.com/ai/lighteval-hugging-faces-open-source-solution-to-ais-accountability-problem/",
-      "imageUrl":"https://venturebeat.com/wp-content/uploads/2024/09/nuneybits_Vector_art_of_the_iconic_Hugging_Face_emoji_with_hand_5258d562-de7f-442b-9740-0a5d96e618f6.webp?w=750",
-      "source":"VentureBeat",
-      "date":"09 Sep 2024"
-   },
-   {
-      "title":"AI2’s new model aims to be open and powerful yet cost effective",
-      "url":"https://venturebeat.com/ai/ai2s-new-model-aims-to-be-open-and-powerful-yet-cost-effective/",
-      "imageUrl":"https://venturebeat.com/wp-content/uploads/2024/02/DALL%C2%B7E-2024-02-12-21.26.49-A-creative-representation-of-a-large-language-model-that-covers-over-100-languages.-The-image-should-depict-a-futuristic-digital-brain-like-structure.webp?w=750",
-      "source":"VentureBeat",
-      "date":"09 Sep 2024"
-   },
-   {
-      "title":"New open source AI leader Reflection 70B’s performance questioned, accused of ‘fraud’",
-      "url":"https://venturebeat.com/ai/new-open-source-ai-leader-reflection-70bs-performance-questioned-accused-of-fraud/",
-      "imageUrl":"https://venturebeat.com/wp-content/uploads/2024/09/accusations-man.png?w=750",
-      "source":"VentureBeat",
-      "date":"09 Sep 2024"
-   },
-   {
-      "title":"Tell Replit's AI Agent Your App Idea, and It'll Code and Deploy It for You",
-      "url":"https://www.maginative.com/article/tell-replits-ai-agent-your-app-idea-and-itll-code-and-deploy-it-for-you/",
-      "imageUrl":"https://www.maginative.com/content/images/size/w2000/format/avif/2024/09/Replit-Agent.jpg",
-      "source":"Maginative",
-      "date":"06 Sep 2024"
    }
 ]
