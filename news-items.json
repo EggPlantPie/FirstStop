@@ -1,37 +1,37 @@
 [
    {
-      "title":"Due to AI fakes, the “deep doubt” era is here",
-      "url":"https://arstechnica.com/information-technology/2024/09/due-to-ai-fakes-the-deep-doubt-era-is-here/",
-      "imageUrl":"https://cdn.arstechnica.net/wp-content/uploads/2024/08/memento-ai-lies-800x450.jpg",
-      "source":"Ars Technica",
-      "date":"20 Sep 2024"
-   },
-   {
-      "title":"Apple Intelligence is now available in public betas",
-      "url":"https://www.theverge.com/2024/9/19/24249206/apple-intelligence-ios-18-1-public-beta",
-      "imageUrl":"https://duet-cdn.vox-cdn.com/thumbor/0x0:1960x1102/1200x800/filters:focal(980x551:981x552):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25630049/Apple_WWDC24_Apple_Intelligence_hero_240610.jpg",
+      "title":"Read Microsoft’s optimistic memo about the future of AI companions",
+      "url":"https://www.theverge.com/2024/10/1/24259209/microsoft-ai-ceo-mustafa-suleyman-copilot-ai-companion-memo",
+      "imageUrl":"https://duet-cdn.vox-cdn.com/thumbor/0x0:5504x3670/1200x800/filters:focal(2752x1835:2753x1836):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652471/1935721560.jpg",
       "source":"TheVerge",
-      "date":"20 Sep 2024"
+      "date":"02 Oct 2024"
    },
    {
-      "title":"Alibaba accelerates AI push by releasing new open-source models, text-to-video",
-      "url":"https://www.reuters.com/technology/alibaba-accelerates-ai-push-by-releasing-new-open-source-models-text-to-video-2024-09-19/",
-      "imageUrl":"https://www.reuters.com/resizer/v2/KVMJTR77EJIL3MREMRZXMHXVYE.jpg?auth=dd59a6057a62fa20cc2054d98cb42d1470b3d9a1c2fa8b3382d01b3019e825ea&width=1200&quality=80",
-      "source":"Reuters",
-      "date":"19 Sep 2024"
+      "title":"AI digests repetitive scatological document into profound “poop” podcast",
+      "url":"https://arstechnica.com/ai/2024/10/ai-digests-repetitive-scatological-document-into-profound-poop-podcast/",
+      "imageUrl":"https://cdn.arstechnica.net/wp-content/uploads/2024/10/poop-fart-emoji-800x450.jpg",
+      "source":"Ars Technica",
+      "date":"02 Oct 2024"
    },
    {
-      "title":"HeyGen Launches In-Video Text Translation",
-      "url":"https://www.maginative.com/article/heygen-launches-in-video-text-translation/",
-      "imageUrl":"https://www.maginative.com/content/images/size/w2000/format/avif/2024/09/HeyGentexttranslate.jpg",
-      "source":"Maginative",
-      "date":"19 Sep 2024"
-   },
-   {
-      "title":"Google’s NotebookLM evolves: What IT leaders need to know about its enterprise application",
-      "url":"https://venturebeat.com/ai/googles-notebooklm-evolves-what-it-leaders-need-to-know-about-its-enterprise-applications/",
-      "imageUrl":"https://venturebeat.com/wp-content/uploads/2024/09/study-headphones-ai-library.png?w=750",
+      "title":"Nvidia just dropped a bombshell: Its new AI model is open, massive, and ready to rival GPT-4",
+      "url":"https://venturebeat.com/ai/nvidia-just-dropped-a-bombshell-its-new-ai-model-is-open-massive-and-ready-to-rival-gpt-4/",
+      "imageUrl":"https://venturebeat.com/wp-content/uploads/2024/10/nuneybits_Vector_art_of_a_human_brain_rendered_in_a_semi-transp_907d536c-6a14-4c28-8c81-3d144ea0de3e.webp?w=750",
       "source":"VentureBeat",
-      "date":"19 Sep 2024"
+      "date":"01 Oct 2024"
+   },
+   {
+      "title":"OpenAI Shifts Focus to Developer Empowerment at DevDay 2024",
+      "url":"https://www.maginative.com/article/openai-shifts-focus-to-developer-empowerment-at-devday-2024/",
+      "imageUrl":"https://www.maginative.com/content/images/size/w2000/format/avif/2024/10/OpenAI-Dev-Day.jpg",
+      "source":"Maginative",
+      "date":"01 Oct 2024"
+   },
+   {
+      "title":"Why bigger is not always better in AI",
+      "url":"https://www.technologyreview.com/2024/10/01/1104744/why-bigger-is-not-always-better-in-ai/",
+      "imageUrl":"https://wp.technologyreview.com/wp-content/uploads/2024/09/240926_biggerisntbetterAI.jpg?fit=2128,1196",
+      "source":"MIT Technology Review",
+      "date":"01 Oct 2024"
    }
 ]
