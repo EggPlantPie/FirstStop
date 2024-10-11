@@ -1,37 +1,37 @@
 [
    {
-      "title":"Read Microsoft’s optimistic memo about the future of AI companions",
-      "url":"https://www.theverge.com/2024/10/1/24259209/microsoft-ai-ceo-mustafa-suleyman-copilot-ai-companion-memo",
-      "imageUrl":"https://duet-cdn.vox-cdn.com/thumbor/0x0:5504x3670/1200x800/filters:focal(2752x1835:2753x1836):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652471/1935721560.jpg",
-      "source":"TheVerge",
-      "date":"02 Oct 2024"
-   },
-   {
-      "title":"AI digests repetitive scatological document into profound “poop” podcast",
-      "url":"https://arstechnica.com/ai/2024/10/ai-digests-repetitive-scatological-document-into-profound-poop-podcast/",
-      "imageUrl":"https://cdn.arstechnica.net/wp-content/uploads/2024/10/poop-fart-emoji-800x450.jpg",
+      "title":"Man learns he’s being dumped via “dystopian” AI summary of texts",
+      "url":"https://arstechnica.com/ai/2024/10/man-learns-hes-being-dumped-via-dystopian-ai-summary-of-texts/",
+      "imageUrl":"https://cdn.arstechnica.net/wp-content/uploads/2024/10/apple_breakup_2-1000x675.jpg",
       "source":"Ars Technica",
-      "date":"02 Oct 2024"
+      "date":"11 Oct 2024"
    },
    {
-      "title":"Nvidia just dropped a bombshell: Its new AI model is open, massive, and ready to rival GPT-4",
-      "url":"https://venturebeat.com/ai/nvidia-just-dropped-a-bombshell-its-new-ai-model-is-open-massive-and-ready-to-rival-gpt-4/",
-      "imageUrl":"https://venturebeat.com/wp-content/uploads/2024/10/nuneybits_Vector_art_of_a_human_brain_rendered_in_a_semi-transp_907d536c-6a14-4c28-8c81-3d144ea0de3e.webp?w=750",
+      "title":"Amazon’s new AI guides can help shoppers find what they need",
+      "url":"https://www.theverge.com/2024/10/9/24266204/amazon-ai-shopping-guides-catalog-feature-availability",
+      "imageUrl":"https://duet-cdn.vox-cdn.com/thumbor/0x0:2640x1486/640x427/filters:focal(1320x743:1321x744):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25666668/Amazon_AI_shopping_guides_hed.jpg",
+      "source":"TheVerge",
+      "date":"10 Oct 2024"
+   },
+   {
+      "title":"Can AI really compete with human data scientists? OpenAI’s new benchmark puts it to the test",
+      "url":"https://venturebeat.com/ai/can-ai-really-compete-with-human-data-scientists-openai-new-benchmark-puts-it-to-the-test/",
+      "imageUrl":"https://venturebeat.com/wp-content/uploads/2024/10/nuneybits_Abstract_art_of_a_robot_scientist_working_side_by_sid_31432677-f62b-4ba8-8f7d-cb17f9ef1016.webp?w=550",
       "source":"VentureBeat",
-      "date":"01 Oct 2024"
+      "date":"10 Oct 2024"
    },
    {
-      "title":"OpenAI Shifts Focus to Developer Empowerment at DevDay 2024",
-      "url":"https://www.maginative.com/article/openai-shifts-focus-to-developer-empowerment-at-devday-2024/",
-      "imageUrl":"https://www.maginative.com/content/images/size/w2000/format/avif/2024/10/OpenAI-Dev-Day.jpg",
-      "source":"Maginative",
-      "date":"01 Oct 2024"
+      "title":"New technique makes RAG systems much better at retrieving the right documents",
+      "url":"https://venturebeat.com/ai/new-technique-makes-rag-systems-much-better-at-retrieving-the-right-documents/",
+      "imageUrl":"https://venturebeat.com/wp-content/uploads/2024/10/Robot-poring-over-documents.jpg?w=750",
+      "source":"VentureBeat",
+      "date":"09 Oct 2024"
    },
    {
-      "title":"Why bigger is not always better in AI",
-      "url":"https://www.technologyreview.com/2024/10/01/1104744/why-bigger-is-not-always-better-in-ai/",
-      "imageUrl":"https://wp.technologyreview.com/wp-content/uploads/2024/09/240926_biggerisntbetterAI.jpg?fit=2128,1196",
-      "source":"MIT Technology Review",
-      "date":"01 Oct 2024"
+      "title":"Atlassian’s Rovo AI is now generally available",
+      "url":"https://techcrunch.com/2024/10/09/atlassians-rovo-ai-is-now-generally-available/",
+      "imageUrl":"https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1153354390-1.jpg?resize=1200,800",
+      "source":"TechCrunch",
+      "date":"09 Oct 2024"
    }
 ]
