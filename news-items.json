@@ -1,37 +1,37 @@
 [
    {
-      "title":"Character.AI and Google sued after chatbot-obsessed teen’s death",
-      "url":"https://www.theverge.com/2024/10/23/24277962/character-ai-google-wrongful-death-lawsuit",
-      "imageUrl":"https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/640x427/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg",
-      "source":"TheVerge",
-      "date":"24 Oct 2024"
+      "title":"Endangered bees stop Meta’s plan for nuclear-powered AI data center",
+      "url":"https://arstechnica.com/ai/2024/11/endangered-bees-stop-metas-plan-for-nuclear-powered-ai-data-center/",
+      "imageUrl":"https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-559541115-1152x648.jpg",
+      "source":"Ars Technica",
+      "date":"05 Nov 2024"
    },
    {
-      "title":"Google DeepMind is making its AI text watermark open source",
-      "url":"https://www.technologyreview.com/2024/10/23/1106105/google-deepmind-is-making-its-ai-text-watermark-open-source/",
-      "imageUrl":"https://wp.technologyreview.com/wp-content/uploads/2024/10/text-watermark1.jpg?fit=1080,607",
-      "source":"MIT Technology Review",
-      "date":"23 Oct 2024"
-   },
-   {
-      "title":"Image Playground, ChatGPT, and more Apple Intelligence features roll out in beta",
-      "url":"https://techcrunch.com/2024/10/23/image-playground-chatgpt-and-more-apple-intelligence-features-roll-out-in-beta/",
-      "imageUrl":"https://techcrunch.com/wp-content/uploads/2024/06/wwdc24-apple-intelligence-genmoji-02-e1718126844579.jpg?resize=1097,617",
+      "title":"ChatGPT Search is not OpenAI’s ‘Google killer’ yet",
+      "url":"https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/",
+      "imageUrl":"https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153471578.jpg?resize=1200,800",
       "source":"TechCrunch",
-      "date":"23 Oct 2024"
+      "date":"04 Nov 2024"
    },
    {
-      "title":"Google's AI Music Generation Tools Just Got a Lot Better",
-      "url":"https://www.maginative.com/article/googles-ai-music-generation-tools-just-got-a-lot-better/",
-      "imageUrl":"https://www.maginative.com/content/images/size/w1200/format/avif/2024/10/musicai.jpg",
+      "title":"UC San Diego, Tsinghua University researchers just made AI way better at knowing when to ask for help",
+      "url":"https://venturebeat.com/ai/uc-san-diego-tsinghua-university-researchers-just-made-ai-way-better-at-knowing-when-to-ask-for-help/",
+      "imageUrl":"https://venturebeat.com/wp-content/uploads/2024/11/nuneybits_Vector_art_of_a_robot_asking_a_question_eedac5d9-3cbf-4dd3-acc9-4f2d09f8e0b3.webp?w=750",
+      "source":"VentureBeat",
+      "date":"04 Nov 2024"
+   },
+   {
+      "title":"Microsoft and a16z Propose Joint Public Policy Ideas for AI Startups",
+      "url":"https://www.maginative.com/article/microsoft-and-a16z-propose-joint-public-policy-ideas-for-ai-startups/",
+      "imageUrl":"https://www.maginative.com/content/images/size/w1200/format/avif/2024/11/Microsoft-a16z.jpg",
       "source":"Maginative",
-      "date":"23 Oct 2024"
+      "date":"02 Nov 2024"
    },
    {
-      "title":"Anthropic’s new AI model can control your PC",
-      "url":"https://techcrunch.com/2024/10/22/anthropics-new-ai-can-control-your-pc/",
-      "imageUrl":"https://techcrunch.com/wp-content/uploads/2024/10/Computer-Use_-Claude-computer-use-static.png?resize=1097,617",
-      "source":"TheVerge",
-      "date":"22 Oct 2024"
+      "title":"AI on your smartphone? Hugging Face’s SmolLM2 brings powerful models to the palm of your hand",
+      "url":"https://venturebeat.com/ai/ai-on-your-smartphone-hugging-faces-smollm2-brings-powerful-models-to-the-palm-of-your-hand/",
+      "imageUrl":"https://venturebeat.com/wp-content/uploads/2024/11/2616a6ce-5645-48c3-bd5d-9a00f1dd0c9e.jpg?w=750",
+      "source":"VentureBeat",
+      "date":"01 Nov 2024"
    }
 ]
